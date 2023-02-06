@@ -6,4 +6,5 @@ package com.zx;
  */
 public class User {
     int a=1;
+    int b=2;
 }
